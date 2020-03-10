@@ -7,9 +7,6 @@ import imutils
 import dlib
 import cv2
 
-# (opencv-python==3.1.0.5)
-
-
 main = tkinter.Tk()
 main.title("Driver Drowsiness Monitoring")
 main.geometry("500x400")
