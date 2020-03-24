@@ -1,2 +1,1 @@
 python DrowsinessDetector.py
-pause
