@@ -1,1 +1,1 @@
-pip install opencv-python==3.1.0.5 dlib==19.4.0 scipy cmake numpy imutils
+pip install opencv-python==3.1.0.5 dlib==19.4.0 scipy cmake imutils
