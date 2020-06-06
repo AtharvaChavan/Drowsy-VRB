@@ -9,7 +9,7 @@ import cv2
 
 main = tkinter.Tk()
 main.title("Driver Drowsiness Monitoring")
-main.geometry("500x400")
+main.geometry("600x400")
 
 
 def EAR(drivereye):
