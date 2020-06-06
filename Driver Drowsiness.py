@@ -41,7 +41,7 @@ def startMonitoring():
     svm_predictor_path = 'SVMclassifier.dat'
     EYE_AR_THRESH = 0.25
     EYE_AR_CONSEC_FRAMES = 10
-    MOU_AR_THRESH = 0.75
+    MOU_AR_THRESH = 0.70
 
     COUNTER = 0
     yawnStatus = False
